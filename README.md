@@ -1,5 +1,8 @@
 Landing page do banco Itaú desenvolvido utilizando [Next.js](https://nextjs.org/) e [TypeScript](https://nextjs.org/), estilizado com [Tailwind CSS](https://nextjs.org/).
 
+## Pré-visualização
+![localhost_3000_](https://github.com/rogeritael/itau_landing_page/assets/84825954/56ab7183-3b85-4b37-ba25-92467fc02d76)
+
 ## Como Rodar o Projeto
 
 ```bash
@@ -13,10 +16,6 @@ npm run dev
 ```
 
 Abra uma nova guia no navegador e acesse [http://localhost:3000](http://localhost:3000) para ver o resultado.
-
-
-## Pré-visualização
-imagem
 
 ## Tecnologias Utilizadas
 - Next
