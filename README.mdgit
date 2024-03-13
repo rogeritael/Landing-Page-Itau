@@ -1,0 +1,1 @@
+"# itau_landing_page"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin git@github.com:rogeritael/itau_landing_page.gitgit push -u origin main
