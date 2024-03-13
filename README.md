@@ -1,9 +1,9 @@
-Landing page de bancp Itaú desenvolvido utilizando [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) e [TypeScript](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app), estilizado com [Tailwind CSS](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Landing page do banco Itaú desenvolvido utilizando [Next.js](https://nextjs.org/) e [TypeScript](https://nextjs.org/), estilizado com [Tailwind CSS](https://nextjs.org/).
 
 ## Como Rodar o Projeto
 
 ```bash
-git clone link
+git clone git@github.com:rogeritael/itau_landing_page.git
 
 cd itau_landing_page
 
